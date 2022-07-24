@@ -1,0 +1,23 @@
+{
+  "name": "weba2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsingh945/WEB422ASS2.git"
+  },
+  "author": "girtaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsingh945/WEB422ASS2/issues"
+  },
+  "homepage": "https://github.com/gsingh945/WEB422ASS2#readme",
+  "dependencies": {
+    "heroku": "^7.7.8"
+  },
+  "devDependencies": {},
+  "description": ""
+}
